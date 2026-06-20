@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "灰色のウオーミングアップ難易度表",
+"symbol" : "⇂",
+"data_url" : "https://script.google.com/macros/s/AKfycbxCV24CTAXJUdACow87tc30ZZw-s3PMO-T6s0F_yVQvameaBjt_62Z5Au_xEicNYNjs/exec"
 }
